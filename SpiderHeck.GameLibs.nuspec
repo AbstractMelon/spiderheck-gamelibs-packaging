@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>SpiderHeck.GameLibs</id>
+    <version>99.1.6.2</version>
+    <authors>ModWeaver Team</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>GameLibs for SpiderHeck</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+      <group targetFramework=".NETFramework3.5" />
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+  </metadata>
+</package>
